@@ -16,5 +16,41 @@
       "author": "Джордж Оруэл",
       "pub_date": "2016-12-06"
     }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Книга 3",
+      "author": "Автор 3",
+      "pub_date": "2014-11-04"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Книга 4",
+      "author": "Автор 4",
+      "pub_date": "2022-05-23"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Книга 5",
+      "author": "Автор 5",
+      "pub_date": "2021-04-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Книга 6",
+      "author": "Автор 6",
+      "pub_date": "2021-04-01"
+    }
   }
 ]
